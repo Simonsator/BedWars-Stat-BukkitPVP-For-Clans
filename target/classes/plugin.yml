@@ -1,0 +1,6 @@
+name: BedWars-Clan-Stats
+version: 1.0-SNAPSHOT
+author: Simonsator
+depends: [Clans]
+main: de.simonsator.partyandfriends.clan.extensions.stats.bedwarsbukkitpvp.BWPlugin
+description: Adds the stats of BedWars from BukkitPVP to clans
